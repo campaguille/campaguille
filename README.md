@@ -1,50 +1,60 @@
-# 👋 ¡Hola! Soy Guillermo
+# 👋 ¡Hola! Soy Guillermo Campaña Herrero
 
-### 💻 Desarrollador | 🚀 Apasionado por la tecnología | 🌱 Siempre aprendiendo
+### 💻 Desarrollador de Aplicaciones Multiplataforma | 📍 Madrid, España
 
-Soy un desarrollador enfocado en crear soluciones eficientes, limpias y escalables. Me encanta aprender nuevas tecnologías, colaborar en proyectos interesantes y aportar valor a través del código.
-
----
-
-## 🚀 Tecnologías y herramientas
-
-**Lenguajes**
-- JavaScript · TypeScript · Python · Java · C#
-
-**Frontend**
-- React · Next.js · HTML5 · CSS3 · TailwindCSS
-
-**Backend**
-- Node.js · Express · Django · Spring Boot
-
-**Bases de datos**
-- PostgreSQL · MySQL · MongoDB · SQLite
-
-**DevOps / Otros**
-- Git · Docker · Linux · GitHub Actions
+Soy una persona dedicada, responsable y con gran capacidad de aprendizaje. Me apasiona la informática y la tecnología, y disfruto creando soluciones eficientes y bien estructuradas. Me adapto con facilidad a distintos entornos y valoro mucho el trabajo en equipo, donde puedo aportar mi carácter colaborativo y comunicativo.
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🚀 Tecnologías y habilidades
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+### 🧠 Lenguajes de programación
+- Java · Kotlin · JavaScript  
+- HTML · CSS · XML · DTD
+
+### 📱 Desarrollo de aplicaciones
+- Java  · JavaSwing · JDBC · ORM · Hibernate · Hilos · Seguridad
+- Kotlin
+- Flutter
+
+### 🗄️ Bases de datos
+- SQL (DML, DCL, DDL) · NoSQL
+- Diseño de bases de datos  
+- SQLite · MySQL · MongoDB · PhPMyAdmin · SQLDeveloper  
+- SQL Data Modeler
+
+
+### 🖥️ Sistemas operativos
+- Linux · Windows
+
+### 🧩 Modelado y metodologías
+- UML (casos de uso, clases, diagramas de flujo)
+
+### 🌐 Infraestructura y otros conocimientos
+- Redes · Hardware  
+- AWS  
+- Odoo
 
 ---
 
-## 🌱 Actualmente aprendiendo
-- Arquitectura de software
-- Patrones de diseño
-- Desarrollo full‑stack avanzado
+
+## 🌍 Idiomas
+- Inglés — Dominio profesional de trabajo  
+- Francés — Nivel elemental
 
 ---
 
-## 📫 Cómo contactarme
-- ✉️ Email: tuemail@example.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/tuusuario  
-- 🌐 Portfolio: https://tuweb.com  
+## 📜 Certificados
+- Prevención de Riesgos Laborales (60h)  
+- Certificado Cambridge Inglés Nivel B1
 
 ---
+
+## 📫 Contacto
+- ✉️ Email: **guillercahe@gmail.com**  
+- 📞 Teléfono: +34 662 24 22 39
+
+⭐ *Gracias por visitar mi perfil. Siempre abierto a colaborar y seguir aprendiendo.*
 
 ## ✨ Un poco más sobre mí
 - Me encanta trabajar en equipo y compartir conocimiento.  
