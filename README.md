@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.fc7b4107-b4fb-44ff-9f39-8a3e16c6d7ba.png" alt="Banner Guillermo Campaña Herrero" />
+  <img src="https://copilot.microsoft.com/th/id/BCO.5b3a3f4e-3b2b-4f6e-9d3e-9f3e3c3e3c3e.png" alt="Banner Guillermo Campaña Herrero" />
 </p>
+
 
 # 👋 ¡Hola! Soy Guillermo Campaña Herrero
 
