@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.5b3a3f4e-3b2b-4f6e-9d3e-9f3e3c3e3c3e.png" alt="Banner Guillermo Campaña Herrero" />
+  <img src="https://copilot.microsoft.com/th/id/BCO.193491ea-3b1f-4a79-baae-7087e42df9c9.png" alt="Welcome to my profile" style="width:100%; max-width:1200px;">
 </p>
 
 
