@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.193491ea-3b1f-4a79-baae-7087e42df9c9.png" alt="Welcome to my profile" style="width:100%; max-width:1200px;">
-</p>
-
-
 # 👋 ¡Hola! Soy Guillermo Campaña Herrero
 
 ### 💻 Desarrollador de Aplicaciones Multiplataforma | 📍 Madrid, España
