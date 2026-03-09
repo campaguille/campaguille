@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Guillermo
 
-<!--
-**campaguille/campaguille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desarrollador | 🚀 Apasionado por la tecnología | 🌱 Siempre aprendiendo
 
-Here are some ideas to get you started:
+Soy un desarrollador enfocado en crear soluciones eficientes, limpias y escalables. Me encanta aprender nuevas tecnologías, colaborar en proyectos interesantes y aportar valor a través del código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías y herramientas
+
+**Lenguajes**
+- JavaScript · TypeScript · Python · Java · C#
+
+**Frontend**
+- React · Next.js · HTML5 · CSS3 · TailwindCSS
+
+**Backend**
+- Node.js · Express · Django · Spring Boot
+
+**Bases de datos**
+- PostgreSQL · MySQL · MongoDB · SQLite
+
+**DevOps / Otros**
+- Git · Docker · Linux · GitHub Actions
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+
+---
+
+## 🌱 Actualmente aprendiendo
+- Arquitectura de software
+- Patrones de diseño
+- Desarrollo full‑stack avanzado
+
+---
+
+## 📫 Cómo contactarme
+- ✉️ Email: tuemail@example.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/tuusuario  
+- 🌐 Portfolio: https://tuweb.com  
+
+---
+
+## ✨ Un poco más sobre mí
+- Me encanta trabajar en equipo y compartir conocimiento.  
+- Disfruto automatizar procesos y optimizar sistemas.  
+- Siempre estoy abierto a colaborar en proyectos interesantes.
+
+---
+
+⭐ *Si te gusta mi trabajo, no dudes en seguirme o ver mis repositorios.*
