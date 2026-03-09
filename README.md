@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://copilot.microsoft.com/th/id/BCO.fc7b4107-b4fb-44ff-9f39-8a3e16c6d7ba.png" alt="Banner Guillermo Campaña Herrero" />
+</p>
+
 # 👋 ¡Hola! Soy Guillermo Campaña Herrero
 
 ### 💻 Desarrollador de Aplicaciones Multiplataforma | 📍 Madrid, España
@@ -8,14 +12,14 @@ Soy una persona dedicada, responsable y con gran capacidad de aprendizaje. Me ap
 
 ## 🚀 Tecnologías y habilidades
 
-### 🧠 Lenguajes de programación
+### 🧠 Lenguajes
 - Java · Kotlin · JavaScript  
-- HTML · CSS · XML · DTD
+- HTML · CSS · XML
 
 ### 📱 Desarrollo de aplicaciones
 - Java  · JavaSwing · JDBC · ORM · Hibernate · Hilos · Seguridad
 - Kotlin
-- Flutter
+- Dart  · Flutter
 
 ### 🗄️ Bases de datos
 - SQL (DML, DCL, DDL) · NoSQL
@@ -23,15 +27,15 @@ Soy una persona dedicada, responsable y con gran capacidad de aprendizaje. Me ap
 - SQLite · MySQL · MongoDB · PhPMyAdmin · SQLDeveloper  
 - SQL Data Modeler
 
-
 ### 🖥️ Sistemas operativos
 - Linux · Windows
 
 ### 🧩 Modelado y metodologías
-- UML (casos de uso, clases, diagramas de flujo)
+- UML (casos de uso, diagrama de clases, diagramas de flujo)
 
 ### 🌐 Infraestructura y otros conocimientos
-- Redes · Hardware  
+- Redes
+- Hardware  
 - AWS  
 - Odoo
 
